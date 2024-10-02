@@ -83,3 +83,6 @@ chances of a breach of sensitive information and enhancing the
 security of the overall federated learning process. Additionally,
 the integration of Microservices allows for scalable and
 modular deployment, enabling the framework to efficiently
+
+
+This work has been submitted to the Cluster Computing Springer Journal
