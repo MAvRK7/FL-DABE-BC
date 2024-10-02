@@ -71,18 +71,6 @@ security strategies that can be seamlessly incorporated into
 FL frameworks to achieve a high level of data privacy and
 integrity, such as using distributed data.
 
-Our proposed framework named FL-DABE-BC, which is a
-novel privacy-pres framework for IoT environments, combines
-key components of Decentralized Attribute-Based Encryption
-(DABE), Homomorphic Encryption (HE), Secure Multi-Party
-Computation (SMPC), and Blockchain. FL-DABE-BC first
-uses DABE for decentralized authentication and fine-grained
-data encryption on IoT devices. The data encryption with
-DABE is done on the local IoT device, thus reducing the
-chances of a breach of sensitive information and enhancing the
-security of the overall federated learning process. Additionally,
-the integration of Microservices allows for scalable and
-modular deployment, enabling the framework to efficiently
 
 
 This work has been submitted to the Cluster Computing Springer Journal
