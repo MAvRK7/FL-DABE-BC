@@ -1,4 +1,5 @@
-# FL-DABE-BC
+# FL-DABE-BC: A Privacy-Enhanced, Decentralized Authentication, and Secure Communication for Federated Learning Framework with Decentralized Attribute-Based Encryption and Blockchain for IoT
+Scenarios
 
 Abstract
 
